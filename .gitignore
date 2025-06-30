@@ -1,4 +1,7 @@
-# Ignore data folder contents (keep structure but not files)
+# Ignore CUDA installation files
+*.deb
+
+# Ignore data folder contents (keep structure)
 data/raw/*
 data/processed/*
 data/outputs/*

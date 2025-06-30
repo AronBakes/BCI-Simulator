@@ -12,7 +12,7 @@ A Python-based Brain-Computer Interface (BCI) simulator designed to mimic neural
 ## Installation
 ```bash
 git clone https://github.com/yourusername/BCI_Simulator.git
-cd BCI_Simulator
+cd BCI-Simulator
 pip install -r requirements.txt
 ```
 
